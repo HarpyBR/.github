@@ -1,4 +1,4 @@
-# HARPIA | Open Source Software Initiative
+# HARPIA - Open Source Software Initiative
 
 [Read in PT-BR](https://github.com/HarpyBR/.github/blob/main/README.md)
 

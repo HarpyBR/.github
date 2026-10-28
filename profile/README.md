@@ -1,84 +1,86 @@
-# Harpy BR | Software Initiative
+# Harpy BR | Iniciativa de Software
 
-[Clique aqui para ler em Português / Click here to read in PT-BR](https://github.com/HarpyBR/.github/blob/main/README.md)
+[Read in English](https://github.com/HarpyBR/.github/blob/main/README-EN.md)
 
-We are the HarpyBR, the brazillian Open-Source Community. We believe in the strength of union, respect and creativity. Together, we write and maintain world-class software source code with an economic and social purpose, and publish it in a Free & Open Source format. Join us.
+Nós somos a HarpyBR, a comunidade brasileira de Código Aberto (Open-Source). Acreditamos na força da união, no respeito e na criatividade. Juntos, escrevemos e mantemos código-fonte de software a nível mundial com um propósito econômico e social, e o publicamos em formato Livre e de Código Aberto. Junte-se a nós!
 
-## ➕ Join
+## ➕ Como participar
 
-Join this Community by reading this entire document, then clicking on "follow" here, open an issue if you want to join as member of this repo, or engage with projects by sending issues, PRs, opening new projects... If you got confuse about something, feel free to also left an issue on the [public discussion repo](https://github.com/HarpyBR/discuss)
+Entre para a comunidade lendo todo este documento e, em seguida, clicando em "seguir" aqui, abrindo uma issue nesse repo caso vc queira ser membro oficial, ou engajando com projetos, enviando issues, PRs, sugerindo novos projetos... Se algo ficar confuso, sinta-se à vontade para deixar um comentário via *issue* em nosso [repositório de discussões públicas](https://github.com/HarpyBR/discuss).
 
-## 🤝 Shared Values
+## 🤝 Valores que Compartilhamos
 
-This is a safe space and healthy community built around fundamental principles and shared values:
+Este é um espaço seguro e uma comunidade saudável construída em torno de princípios fundamentais e valores compartilhados:
 
-### 1. National Sovereignty
+### 1. Soberania Nacional
 
-We believe that digital freedom isn't given; it is built with our own code. We refuse to be passive digital colonies. We want to be active Contributors! True sovereignty means create our own wheels whenever we can: locking down our data against foreign eyes, safeguarding our lifelines from geopolitical blackmail, and fueling our own tech underground. By coding our own destiny, we break the chains of foreign dependence, protect our people, and prove that our nation's future belongs to no one but us. Let's build our own digital fortress.
+Acreditamos que a liberdade digital não é dada; ela é construída com nosso próprio código. Recusamo-nos a ser colônias digitais passivas. Queremos ser Contribuidores ativos! A verdadeira soberania significa criar nossas próprias soluções sempre que pudermos: proteger nossos dados contra o olhar estrangeiro, resguardar nossas linhas de frente digitais contra chantagens geopolíticas e fomentar nosso próprio ecossistema tecnológico. Ao codificar nosso próprio destino, quebramos as correntes da dependência externa, protegemos nosso povo e provamos que o futuro da nossa nação não pertence a ninguém a não ser a nós mesmos. Vamos construir nossa própria fortaleza digital.
 
-### 2. Right of information access and distribution
+### 2. Direito de acesso e distribuição da informação
 
-We believe that the right to look for, get, and spread verified facts is a non-negotiable shield for a free society. Information is the oxygen of our movement, and we refuse to let corporate algorithms, foreign gatekeepers, or digital tolls choke it out. We believe every citizen has a right to the unfiltered truth and the power to voice it without looking over their shoulder. By building our own independent, open-access pipelines, we bust through the monopolies that try to control what we see, what we think, and what we say.
+Acreditamos que o direito de buscar, obter e disseminar fatos verificados é um escudo inegociável para uma sociedade livre. A informação é o oxigênio do nosso movimento, e nos recusamos a deixar que algoritmos corporativos, pedágios (gatekeepers) estrangeiros ou barreiras digitais a sufoquem. Acreditamos que todo cidadão tem o direito à verdade sem filtros e o poder de expressá-la sem precisar olhar para trás. Ao construir nossas próprias redes de acesso livre e independentes, rompemos os monopólios que tentam controlar o que vemos, o que pensamos e o que dizemos.
 
-### 3. Solidarity over Individualism
+### 3. Solidariedade acima do Individualismo
 
-We believe that solidarity is our ultimate defense, and we protect our own. In a world of digital surveillance and foreign overreach, nobody is safe until we are ALL safe! We refuse to leave anyone of us to face the algorithmic dragnets, corporate trackers, stalkers, digital harassment or digital threats alone. True digital sovereignty means watching each other’s backs—shielding our members, safeguarding our creators, and protecting our community so even the vulnerable can speak without fear. By standing together as a digital community, we turn individual vulnerability into collective power, ensuring that an attack on one of us is met by the unbreakable shield of all of us.
+Acreditamos que a solidariedade é a nossa defesa definitiva, e protegemos os nossos. Em um mundo de vigilância digital e abusos internacionais, ninguém está seguro a menos que TODOS estejamos seguros! Recusamo-nos a deixar pra trás qualquer um dos nossos lidando sozinho ou sozinha com redes de arrasto algorítmico, linchamentos digitais, perseguições, stalkers ou ameaças digitais. A verdadeira soberania digital significa cuidar uns dos outros — blindando nossos membros, resguardando nossos criadores e protegendo nossa comunidade para que até mesmo os vulneráveis possam falar sem medo. Ao nos unirmos como uma comunidade digital, transformamos a vulnerabilidade individual em poder coletivo, garantindo que um ataque a um de nós seja respondido pelo escudo inquebrável de todos nós.
 
-## ⚖️ Code of Conduct
+## ⚖️ Código de Conduta
 
-We are committed to fostering an environment that respects and promotes the dignity, rights, and contributions of all individuals, regardless of characteristics including race, ethnicity, caste, color, age, physical characteristics, neurodiversity, disability, sex or gender, gender identity or expression, sexual orientation, language, philosophy or religion, national or social origin, socio-economic position, level of education, or other status. The same privileges of participation are extended to everyone who participates in good faith and in accordance with this Covenant.
+Estamos comprometidos em cultivar um ambiente que respeite e promova a dignidade, os direitos e as contribuições de todos os indivíduos, independentemente de características incluindo raça, etnia, classe, cor, idade, características físicas, neurodiversidade, deficiência, sexo ou gênero, identidade ou expressão de gênero, orientação sexual, idioma, filosofia ou religião, origem nacional ou social, posição socioeconômica, nível de instrução ou qualquer outro status. Os mesmos privilégios de participação são estendidos a todos que participarem de boa-fé e de acordo com este Pacto.
 
-### Encouraged Behaviors
+### Comportamentos Incentivados
 
-While acknowledging differences in social norms, we all strive to meet our community’s expectations for positive behavior. We also understand that our words and actions may be interpreted differently than we intend based on culture, background, or native language.
+Embora reconheçamos as diferenças nas normas sociais, todos nos esforçamos para atender às expectativas de comportamento positivo da nossa comunidade. Também entendemos que nossas palavras e ações podem ser interpretadas de maneira diferente do que pretendemos, com base na cultura, histórico ou idioma nativo.
 
-With these considerations in mind, we agree to behave mindfully toward each other and act in ways that center our shared values, including:
+Com essas considerações em mente, concordamos em nos comportar de forma consciente uns com os outros e agir de maneiras que centralizem nossos valores compartilhados, incluindo:
 
-- Respecting the purpose of our community, our activities, and our ways of gathering.
-- Engaging kindly and honestly with others.
-- Respecting different viewpoints and experiences.
-- Taking responsibility for our actions and contributions.
-- Gracefully giving and accepting constructive feedback.
-- Committing to repairing harm when it occurs.
-- Behaving in other ways that promote and sustain the well-being of our community.
+- Respeitar o propósito da nossa comunidade, nossas atividades e formas de interação.
+- Engajar-se com gentileza e honestidade com os outros.
+- Respeitar diferentes pontos de vista e experiências.
+- Assumir a responsabilidade por nossas ações e contribuições.
+- Dar e aceitar feedback construtivo com tranquilidade e maturidade.
+- Comprometer-se a reparar danos quando ocorrerem.
+- Comportar-se de outras maneiras que promovam e sustentem o bem-estar da nossa comunidade.
 
-### Restricted Behaviors
+### Comportamentos Restritos
 
-- Harassment. Violating explicitly expressed boundaries or engaging in unnecessary personal attention after any clear request to stop.
-- Character attacks. Making insulting, demeaning, or pejorative comments directed at a community member or group of people.
-- Stereotyping or discrimination. Characterizing anyone’s personality or behavior on the basis of immutable identities or traits.
-- Sexualization. Behaving in a way that would generally be considered inappropriately intimate in the context or purpose of the community.
-- Violating confidentiality. Sharing or acting on someone’s personal or private information without their permission.
-- Endangerment. Causing, encouraging, or threatening violence or other harm toward any person or group.
-- Misleading identity. Impersonating someone else for any reason, or pretending to be someone else to evade enforcement actions.
-- Failing to credit sources. Not properly crediting the sources of content you contribute.
-- Promotional materials. Sharing marketing or other commercial content in a way that is outside the purpose of the community.
-- Irresponsible communication. Failing to responsibly present content which includes, links or describes any other restricted behaviors.
-- Targeted harassment and dogwhistling. Engaging in coordinated attacks, subtle discrimination, coded language, or "dogwhistles" intended to marginalize, intimidate, or exclude minoritized groups, even if individual messages seem benign in isolation.
-- Doxing and non-consensual disclosure. Publishing, gathering, or sharing personally identifiable information (PII)—such as real names, physical addresses, workplaces, or sensitive legal/medical statuses—of minoritized members or any community member, putting their real-world safety at risk.
-- Deadnaming and misgendering. Intentionally using a person’s former name (deadname) or incorrect pronouns after being made aware of their correct name and pronouns, or using gender identity to invalidate a member's contributions.
-- Identity invalidation and gatekeeping. Denying, questioning, or mocking the lived experiences, identities, or belonging of marginalized or minoritized members, including questioning their right to participate in or occupy community spaces.
-- Hate speech and slur usage. Using language, imagery, or symbols that promote hatred, incite violence, or reinforce systemic oppression against groups based on race, ethnicity, sexual orientation, gender identity or expression, religion, disability, age, socio-economic status, or nationality.
-- Seeding unsafe external environments. Linking to, hosting, or directing community members to external platforms, forums, or media that promote hate speech, doxing, extremist views, or unsafe content aimed at harming marginalized groups.
-- Retaliation. Threatening, punishing, or taking punitive actions against anyone who reports a Code of Conduct violation, assists in an investigation, or speaks up in defense of a targeted or minoritized member.
-- Exploiting safety processes. Misusing report mechanisms, safety tools, or administrative procedures to weaponize enforcement against specific individuals or marginalized groups (e.g., bad-faith reporting or system abuse).
-- Behaving in other ways that threaten the well-being of our community in according to the majority of this community administrators.
+- Assédio. Violar limites expressos explicitamente ou dedicar atenção pessoal desnecessária após qualquer pedido claro de interrupção.
+- Ataques à reputação. Fazer comentários insultuosos, depreciativos ou pejorativos direcionados a um membro da comunidade ou grupo de pessoas.
+- Estereótipos ou discriminação. Caracterizar a personalidade ou o comportamento de qualquer pessoa com base em identidades ou traços imutáveis.
+- Sexualização. Comportar-se de uma maneira que seria geralmente considerada inadequadamente íntima no contexto ou propósito da comunidade.
+- Violação de confidencialidade. Compartilhar ou agir com base em informações pessoais ou privadas de alguém sem a permissão dessa pessoa.
+- Colocar em perigo (*Endangerment*). Causar, incentivar ou ameaçar com violência ou outros danos qualquer pessoa ou grupo.
+- Impersonar. Fazer-se passar por outra pessoa por qualquer motivo, ou fingir ser outra pessoa para escapar de ações de aplicação das regras.
+- Falha em creditar fontes. Não creditar devidamente as fontes dos conteúdos que você contribui.
+- Spam. Compartilhar conteúdo de marketing ou outro conteúdo comercial fora do propósito da comunidade.
+- Comunicação irresponsável. Falhar em apresentar de forma responsável conteúdos que incluam, vinculem ou descrevam quaisquer outros comportamentos restritos.
+- Assédio direcionado e atitudes veladas (*Dogwhistling*). Engajar-se em ataques coordenados, discriminação sutil, linguagem codificada ou sinais velados (*dogwhistles*) destinados a marginalizar, intimidar ou excluir grupos minoritários, mesmo que mensagens individuais pareçam inofensivas isoladamente.
+- Doxing e divulgação não consentida. Publicar, coletar ou compartilhar informações de identificação pessoal (PII) — como nomes reais, endereços físicos, locais de trabalho ou status jurídicos/médicos sensíveis — de membros minoritários ou de qualquer membro da comunidade, colocando em risco sua segurança no mundo real.
+- Uso de nome social anterior (*Deadnaming*) e erro de pronome (*Misgendering*). Usar intencionalmente o nome anterior de uma pessoa (*deadname*) ou pronomes incorretos após ter sido informado sobre seu nome e pronomes corretos, ou usar a identidade de gênero para invalidar as contribuições de um membro.
+- Invalidação de identidade e exclusão (*Gatekeeping*). Negar, questionar ou zombar das experiências vividas, identidades ou do pertencimento de membros marginalizados ou minoritários, incluindo questionar seu direito de participar ou ocupar espaços da comunidade.
+- Discurso de ódio e uso de termos ofensivos. Usar linguagem, imagens ou símbolos que promovam o ódio, incitem a violência ou reforcem a opressão sistêmica contra grupos com base em raça, etnia, orientação sexual, identidade ou expressão de gênero, religião, deficiência, idade, status socioeconômico ou nacionalidade.
+- Semeação de ambientes externos inseguros. Linkar, hospedar ou direcionar membros da comunidade a plataformas, fóruns ou mídias externas que promovam discurso de ódio, *doxing*, visões extremistas ou conteúdo inseguro destinado a prejudicar grupos marginalizados.
+- Retaliação. Ameaçar, punir ou tomar medidas punitivas contra qualquer pessoa que denunciar uma violação do Código de Conduta, ajudar em uma investigação ou se manifestar em defesa de um membro visado ou minoritário.
+- Exploração de processos de segurança. Usar indevidamente mecanismos de denúncia, ferramentas de segurança ou procedimentos administrativos para armar a aplicação das regras contra indivíduos específicos ou grupos marginalizados (ex.: denúncias de má-fé ou abuso do sistema).
+- Comportar-se de outras maneiras que ameacem o bem-estar da nossa comunidade, de acordo com a maioria dos administradores desta comunidade.
 
-# Why in English?
+# Por que em inglês?
 
-We adopt English as the language for institutional repository documentation and code because we are a global community.  We are Brazillian owners, but as a borderless network of engineers, maintainers, and open-source contributors, using a single universal language ensures that our software is accessible, maintainable, and open to everyone, everywhere.
+Adotamos o inglês como idioma para a documentação e código dos repositórios institucionais porque somos uma comunidade global. Somos fundadores brasileiros, mas, como uma rede sem fronteiras de engenheiros, mantenedores e contribuidores de código aberto, o uso de um único idioma universal garante que nosso software seja acessível, de fácil manutenção e aberto a todos, em qualquer lugar.
 
-### Key Reasons
+### Principais Motivos
 
-* **Inclusive Global Collaboration:** Using English removes regional barriers, enabling developers worldwide to inspect code, report issues, submit pull requests, and contribute to our ecosystem.
-* **Unified Technical Standard:** Modern programming languages, APIs, linters, and cloud tools operate natively in English. Writing code, commits, and comments in English prevents mixed-language codebases and maintains high readability.
-* **Seamless Project Growth:** Open-source projects thrive when maintainership can scale globally. Standardized documentation ensures our repositories remain active, healthy, and easy to fork or integrate.
-* **Career Readiness for All Members:** Working in an English-first technical environment gives every community member hands-on experience with the global software industry standard.
+- **Colaboração Global Inclusiva:** O uso do inglês remove barreiras regionais, permitindo que desenvolvedores do mundo todo inspecionem o código, relatem *issues*, enviem *pull requests* e contribuam para o nosso ecossistema.
+- **Padrão Técnico Unificado:** Linguagens de programação modernas, APIs, *linters* e ferramentas de nuvem operam nativamente em inglês. Escrever código, *commits* e comentários em inglês evita bases de código com idiomas misturados e mantém uma alta legibilidade.
+- **Crescimento Fluido do Projeto:** Projetos de código aberto prosperam quando a gestão e manutenção podem se expandir globalmente. A documentação padronizada garante que nossos repositórios permaneçam ativos, saudáveis e fáceis de fazer *fork* ou integrar.
+- **Preparação de Carreira para Todos os Membros:** Trabalhar em um ambiente técnico focado prioritariamente em inglês dá a cada membro da comunidade experiência prática com o padrão da indústria global de software.
 
 ---
 
-### Language Scope
+### Escopo dos Idiomas
 
-* **English Required:** Codebases, commit messages, inline documentation, pull request reviews, issue trackers, READMEs, and technical specifications.
+- **Inglês Obrigatório:** Bases de código, mensagens de *commit*, documentação em código (*inline*), revisões de *pull requests*, rastreadores de *issues*, READMEs e especificações técnicas.
 
-* **Multilingual Welcomed:** Issues, Discussions, Informal community chat, local event channels, general networking, and beginner onboarding— where members are free to connect in Portuguese or their native languages.
+- **Multilíngue Bem-vindo:** *Issues*, Discussões, bate-papo informal da comunidade, canais de eventos locais, *networking* geral e integração de iniciantes — onde os membros são livres para se conectar em português ou em seus idiomas nativos.
+
+- Caso você não saiba absolutamente NADA de inglês, abra sua PR em pt-BR mesmo assim e peça ajuda de um reviewer para traduzi-la caso seja válida.

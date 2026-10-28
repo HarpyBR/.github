@@ -2,27 +2,27 @@
 
 [Clique aqui para ler em Inglês / Click here to read in EN](https://github.com/HarpyBR/.github/blob/main/profile/README.md)
 
-Nós somos a HarpyBR, a comunidade brasileira de Código Aberto (Open-Source). Acreditamos na força da união, no respeito e na criatividade. Juntos, escrevemos e mantemos código-fonte de software de classe mundial com um propósito econômico e social, e o publicamos em formato Livre e de Código Aberto. Junte-se a nós.
+Nós somos a HarpyBR, a comunidade brasileira de Código Aberto (Open-Source). Acreditamos na força da união, no respeito e na criatividade. Juntos, escrevemos e mantemos código-fonte de software a nível mundial com um propósito econômico e social, e o publicamos em formato Livre e de Código Aberto. Junte-se a nós!
 
 ## ➕ Como participar
 
-Junte-se a esta Comunidade lendo todo este documento e, em seguida, abrindo uma *issue* informando que deseja participar. Você receberá um convite. Se ficar confuso sobre algo, sinta-se à vontade para deixar um comentário na *issue*.
+Entre para a comunidade lendo todo este documento e, em seguida, abrindo uma *issue* nesse repo informando que deseja participar. Você receberá um convite. Se algo ficar confuso, sinta-se à vontade para deixar um comentário na *issue*.
 
-## 🤝 Valores Compartilhados
+## 🤝 Valores que Compartilhamos
 
 Este é um espaço seguro e uma comunidade saudável construída em torno de princípios fundamentais e valores compartilhados:
 
 ### 1. Soberania Nacional
 
-Acreditamos que a liberdade digital não é dada; ela é construída com nosso próprio código. Recusamo-nos a ser colônias digitais passivas. Queremos ser Contribuidores ativos! A verdadeira soberania significa criar nossas próprias soluções sempre que pudermos: proteger nossos dados contra olhares estrangeiros, resguardar nossas linhas vitais contra chantagens geopolíticas e alimentar nosso próprio ambiente tecnológico. Ao codificar nosso próprio destino, quebramos as correntes da dependência externa, protegemos nosso povo e provamos que o futuro da nossa nação não pertence a ninguém a não ser a nós mesmos. Vamos construir nossa própria fortaleza digital.
+Acreditamos que a liberdade digital não é dada; ela é construída com nosso próprio código. Recusamo-nos a ser colônias digitais passivas. Queremos ser Contribuidores ativos! A verdadeira soberania significa criar nossas próprias soluções sempre que pudermos: proteger nossos dados contra o olhar estrangeiro, resguardar nossas linhas de frente digitais contra chantagens geopolíticas e fomentar nosso próprio ecossistema tecnológico. Ao codificar nosso próprio destino, quebramos as correntes da dependência externa, protegemos nosso povo e provamos que o futuro da nossa nação não pertence a ninguém a não ser a nós mesmos. Vamos construir nossa própria fortaleza digital.
 
 ### 2. Direito de acesso e distribuição da informação
 
-Acreditamos que o direito de buscar, obter e disseminar fatos verificados é um escudo inegociável para uma sociedade livre. A informação é o oxigênio do nosso movimento, e nos recusamos a deixar que algoritmos corporativos, porteiros (*gatekeepers*) estrangeiros ou pedágios digitais a sufoquem. Acreditamos que todo cidadão tem o direito à verdade sem filtros e o poder de expressá-la sem precisar olhar para trás. Ao construir nossas próprias redes de acesso livre e independentes, rompemos os monopólios que tentam controlar o que vemos, o que pensamos e o que dizemos.
+Acreditamos que o direito de buscar, obter e disseminar fatos verificados é um escudo inegociável para uma sociedade livre. A informação é o oxigênio do nosso movimento, e nos recusamos a deixar que algoritmos corporativos, pedágios (gatekeepers) estrangeiros ou barreiras digitais a sufoquem. Acreditamos que todo cidadão tem o direito à verdade sem filtros e o poder de expressá-la sem precisar olhar para trás. Ao construir nossas próprias redes de acesso livre e independentes, rompemos os monopólios que tentam controlar o que vemos, o que pensamos e o que dizemos.
 
 ### 3. Solidariedade acima do Individualismo
 
-Acreditamos que a solidariedade é a nossa defesa definitiva, e protegemos os nossos. Em um mundo de vigilância digital e abusos internacionais, ninguém está seguro até que todos estejamos seguros! Recusamo-nos a deixar qualquer pessoa para trás lidando sozinha com redes de arrasto algorítmicas, rastreadores corporativos ou ameaças digitais. A verdadeira soberania digital significa cuidar uns dos outros — blindando nossos denunciantes, resguardando nossos criadores e protegendo nossa comunidade para que os vulneráveis possam falar sem medo. Ao nos unirmos como uma comunidade digital, transformamos a vulnerabilidade individual em poder coletivo, garantindo que um ataque a um de nós seja respondido pelo escudo inquebrável de todos nós.
+Acreditamos que a solidariedade é a nossa defesa definitiva, e protegemos os nossos. Em um mundo de vigilância digital e abusos internacionais, ninguém está seguro a menos que TODOS estejamos seguros! Recusamo-nos a deixar pra trás qualquer um dos nossos lidando sozinho ou sozinha com redes de arrasto algorítmico, linchamentos digitais, perseguições, stalkers ou ameaças digitais. A verdadeira soberania digital significa cuidar uns dos outros — blindando nossos membros, resguardando nossos criadores e protegendo nossa comunidade para que até mesmo os vulneráveis possam falar sem medo. Ao nos unirmos como uma comunidade digital, transformamos a vulnerabilidade individual em poder coletivo, garantindo que um ataque a um de nós seja respondido pelo escudo inquebrável de todos nós.
 
 ## ⚖️ Código de Conduta
 

@@ -26,7 +26,7 @@ Acreditamos que a solidariedade é a nossa defesa definitiva, e protegemos os no
 
 ## ⚖️ Código de Conduta
 
-Estamos comprometidos em cultivar um ambiente que respeite e promova a dignidade, os direitos e as contribuições de todos os indivíduos, independentemente de características incluindo raça, etnia, casta, cor, idade, características físicas, neurodiversidade, deficiência, sexo ou gênero, identidade ou expressão de gênero, orientação sexual, idioma, filosofia ou religião, origem nacional ou social, posição socioeconômica, nível de instrução ou qualquer outro status. Os mesmos privilégios de participação são estendidos a todos que participarem de boa-fé e de acordo com este Pacto.
+Estamos comprometidos em cultivar um ambiente que respeite e promova a dignidade, os direitos e as contribuições de todos os indivíduos, independentemente de características incluindo raça, etnia, classe, cor, idade, características físicas, neurodiversidade, deficiência, sexo ou gênero, identidade ou expressão de gênero, orientação sexual, idioma, filosofia ou religião, origem nacional ou social, posição socioeconômica, nível de instrução ou qualquer outro status. Os mesmos privilégios de participação são estendidos a todos que participarem de boa-fé e de acordo com este Pacto.
 
 ### Comportamentos Incentivados
 
@@ -34,25 +34,25 @@ Embora reconheçamos as diferenças nas normas sociais, todos nos esforçamos pa
 
 Com essas considerações em mente, concordamos em nos comportar de forma consciente uns com os outros e agir de maneiras que centralizem nossos valores compartilhados, incluindo:
 
-- Respeitar o propósito da nossa comunidade, nossas atividades e nossas formas de reunião.
+- Respeitar o propósito da nossa comunidade, nossas atividades e formas de interação.
 - Engajar-se com gentileza e honestidade com os outros.
 - Respeitar diferentes pontos de vista e experiências.
 - Assumir a responsabilidade por nossas ações e contribuições.
-- Dar e aceitar feedback construtivo com elegância e maturidade.
-- Comprometer-se a reparar danos quando eles ocorrerem.
+- Dar e aceitar feedback construtivo com tranquilidade e maturidade.
+- Comprometer-se a reparar danos quando ocorrerem.
 - Comportar-se de outras maneiras que promovam e sustentem o bem-estar da nossa comunidade.
 
 ### Comportamentos Restritos
 
-- Assédio. Violat limites expressos explicitamente ou dedicar atenção pessoal desnecessária após qualquer pedido claro de interrupção.
-- Ataques à reputação (*Character attacks*). Fazer comentários insultuosos, depreciativos ou pejorativos direcionados a um membro da comunidade ou grupo de pessoas.
+- Assédio. Violar limites expressos explicitamente ou dedicar atenção pessoal desnecessária após qualquer pedido claro de interrupção.
+- Ataques à reputação. Fazer comentários insultuosos, depreciativos ou pejorativos direcionados a um membro da comunidade ou grupo de pessoas.
 - Estereótipos ou discriminação. Caracterizar a personalidade ou o comportamento de qualquer pessoa com base em identidades ou traços imutáveis.
 - Sexualização. Comportar-se de uma maneira que seria geralmente considerada inadequadamente íntima no contexto ou propósito da comunidade.
 - Violação de confidencialidade. Compartilhar ou agir com base em informações pessoais ou privadas de alguém sem a permissão dessa pessoa.
 - Colocar em perigo (*Endangerment*). Causar, incentivar ou ameaçar com violência ou outros danos qualquer pessoa ou grupo.
-- Identidade enganosa. Fazer-se passar por outra pessoa por qualquer motivo, ou fingir ser outra pessoa para escapar de ações de aplicação das regras.
+- Impersonar. Fazer-se passar por outra pessoa por qualquer motivo, ou fingir ser outra pessoa para escapar de ações de aplicação das regras.
 - Falha em creditar fontes. Não creditar devidamente as fontes dos conteúdos que você contribui.
-- Materiais promocionais. Compartilhar conteúdo de marketing ou outro conteúdo comercial fora do propósito da comunidade.
+- Spam. Compartilhar conteúdo de marketing ou outro conteúdo comercial fora do propósito da comunidade.
 - Comunicação irresponsável. Falhar em apresentar de forma responsável conteúdos que incluam, vinculem ou descrevam quaisquer outros comportamentos restritos.
 - Assédio direcionado e atitudes veladas (*Dogwhistling*). Engajar-se em ataques coordenados, discriminação sutil, linguagem codificada ou sinais velados (*dogwhistles*) destinados a marginalizar, intimidar ou excluir grupos minoritários, mesmo que mensagens individuais pareçam inofensivas isoladamente.
 - Doxing e divulgação não consentida. Publicar, coletar ou compartilhar informações de identificação pessoal (PII) — como nomes reais, endereços físicos, locais de trabalho ou status jurídicos/médicos sensíveis — de membros minoritários ou de qualquer membro da comunidade, colocando em risco sua segurança no mundo real.
@@ -82,3 +82,5 @@ Adotamos o inglês como idioma para a documentação e código dos repositórios
 - **Inglês Obrigatório:** Bases de código, mensagens de *commit*, documentação em código (*inline*), revisões de *pull requests*, rastreadores de *issues*, READMEs e especificações técnicas.
 
 - **Multilíngue Bem-vindo:** *Issues*, Discussões, bate-papo informal da comunidade, canais de eventos locais, *networking* geral e integração de iniciantes — onde os membros são livres para se conectar em português ou em seus idiomas nativos.
+
+- Caso você não saiba absolutamente NADA de inglês, abra sua PR em pt-BR mesmo assim e peça ajuda de um reviewer para traduzi-la caso seja válida.

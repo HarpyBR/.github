@@ -62,7 +62,7 @@ With these considerations in mind, we agree to behave mindfully toward each othe
 - Exploiting safety processes. Misusing report mechanisms, safety tools, or administrative procedures to weaponize enforcement against specific individuals or marginalized groups (e.g., bad-faith reporting or system abuse).
 - Behaving in other ways that threaten the well-being of our community in according to the majority of this community administrators.
 
-# Why in English
+# Why in English?
 
 We adopt English as the language for institutional repository documentation and code because we are a global community.  We are Brazillian owners, but as a borderless network of engineers, maintainers, and open-source contributors, using a single universal language ensures that our software is accessible, maintainable, and open to everyone, everywhere.
 

@@ -4,6 +4,8 @@
 
 Nós somos a HARPIA, uma comunidade brasileira de Código Aberto (Open-Source). Acreditamos na força da união, no respeito e na criatividade. Juntos, escrevemos e mantemos código-fonte de software a nível mundial com um propósito econômico e social, e o publicamos em formato Livre e de Código Aberto. Junte-se a nós!
 
+> O gavião-real (Harpia harpyja), também conhecido como gavião-de-penacho ou uiraçu, é a maior e mais poderosa ave de rapina das Américas e uma das mais fortes do mundo.
+
 ## ➕ Como participar
 
 Entre para a comunidade lendo todo este documento e, em seguida, clicando em "seguir" aqui, abrindo uma issue nesse repo caso vc queira ser membro oficial, ou engajando com projetos, enviando issues, PRs, sugerindo novos projetos... Se algo ficar confuso, sinta-se à vontade para deixar um comentário via *issue* em nosso [repositório de discussões públicas](https://github.com/HarpyBR/discuss).

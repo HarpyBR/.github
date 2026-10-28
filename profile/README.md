@@ -2,6 +2,10 @@
 
 We are the HarpyBR, the brazillian Open-Source Community. We believe in the strength of union, respect and creativity. Together, we write and maintain world-class software source code with an economic and social purpose, and publish it in a Free & Open Source format. Join us.
 
+## Join
+
+Join this Community by reading this entire document, then raising an issue of type "Join" on this repository. You will receive an invitation. If you got confuse about something, feel free to also let a comment on the issue.
+
 ## Shared Values
 
 This is a safe space and healthy community built around fundamental principles and shared values:

@@ -6,7 +6,7 @@ We are the HarpyBR, the brazillian Open-Source Community. We believe in the stre
 
 ## ➕ Join
 
-Join this Community by reading this entire document, then clicking on "follow" here, or engaging with projects by sending issues, PRs, opening new projects... If you got confuse about something, feel free to also left an issue on the [public discussion repo](https://github.com/HarpyBR/discuss)
+Join this Community by reading this entire document, then clicking on "follow" here, open an issue if you want to join as member of this repo, or engage with projects by sending issues, PRs, opening new projects... If you got confuse about something, feel free to also left an issue on the [public discussion repo](https://github.com/HarpyBR/discuss)
 
 ## 🤝 Shared Values
 

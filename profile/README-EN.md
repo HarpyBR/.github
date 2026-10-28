@@ -4,6 +4,8 @@
 
 We are the HarpyBR, the brazillian Open-Source Community. We believe in the strength of union, respect and creativity. Together, we write and maintain world-class software source code with an economic and social purpose, and publish it in a Free & Open Source format. Join us.
 
+> The Brazilian harpy eagle (Harpia harpyja), or gavião-real, is the largest and most powerful bird of prey in the Americas and one of the strongest raptors in the world.
+
 ## ➕ Join
 
 Join this Community by reading this entire document, then clicking on "follow" here, open an issue if you want to join as member of this repo, or engage with projects by sending issues, PRs, opening new projects... If you got confuse about something, feel free to also left an issue on the [public discussion repo](https://github.com/HarpyBR/discuss)

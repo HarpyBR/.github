@@ -4,7 +4,7 @@ We are the HarpyBR, the brazillian Open-Source Community. We believe in the stre
 
 ## ➕ Join
 
-Join this Community by reading this entire document, then raising an issue of type "Join" on this repository. You will receive an invitation. If you got confuse about something, feel free to also let a comment on the issue.
+Join this Community by reading this entire document, then raising an issue informing that you want to join. You will receive an invitation. If you got confuse about something, feel free to also let a comment on the issue.
 
 ## 🤝 Shared Values
 

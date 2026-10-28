@@ -2,11 +2,11 @@
 
 We are the HarpyBR, the brazillian Open-Source Community. We believe in the strength of union, respect and creativity. Together, we write and maintain world-class software source code with an economic and social purpose, and publish it in a Free & Open Source format. Join us.
 
-## Join
+## ➕ Join
 
 Join this Community by reading this entire document, then raising an issue of type "Join" on this repository. You will receive an invitation. If you got confuse about something, feel free to also let a comment on the issue.
 
-## Shared Values
+## 🤝 Shared Values
 
 This is a safe space and healthy community built around fundamental principles and shared values:
 
@@ -22,7 +22,7 @@ We believe that the right to look for, get, and spread verified facts is a non-n
 
 We believe that solidarity is our ultimate defense, and we protect our own. In a world of digital surveillance and foreign overreach, nobody is safe until we are all safe! We refuse to leave anyone behind to face the algorithmic dragnets, corporate trackers, or digital threats alone. True digital sovereignty means watching each other’s backs—shielding our whistleblowers, safeguarding our creators, and protect our community so the vulnerable can speak without fear. By standing together as a digital community, we turn individual vulnerability into collective power, ensuring that an attack on one of us is met by the unbreakable shield of all of us.
 
-## Code of Conduct
+## ⚖️ Code of Conduct
 
 We are committed to fostering an environment that respects and promotes the dignity, rights, and contributions of all individuals, regardless of characteristics including race, ethnicity, caste, color, age, physical characteristics, neurodiversity, disability, sex or gender, gender identity or expression, sexual orientation, language, philosophy or religion, national or social origin, socio-economic position, level of education, or other status. The same privileges of participation are extended to everyone who participates in good faith and in accordance with this Covenant.
 

@@ -78,5 +78,5 @@ We adopt English as the language for institutional repository documentation and 
 ### Language Scope
 
 * **English Required:** Codebases, commit messages, inline documentation, pull request reviews, issue trackers, READMEs, and technical specifications.
-* 
+
 * **Multilingual Welcomed:** Issues, Discussions, Informal community chat, local event channels, general networking, and beginner onboarding— where members are free to connect in Portuguese or their native languages.

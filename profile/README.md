@@ -61,3 +61,22 @@ With these considerations in mind, we agree to behave mindfully toward each othe
 - Retaliation. Threatening, punishing, or taking punitive actions against anyone who reports a Code of Conduct violation, assists in an investigation, or speaks up in defense of a targeted or minoritized member.
 - Exploiting safety processes. Misusing report mechanisms, safety tools, or administrative procedures to weaponize enforcement against specific individuals or marginalized groups (e.g., bad-faith reporting or system abuse).
 - Behaving in other ways that threaten the well-being of our community in according to the majority of this community administrators.
+
+# Why in English
+
+We adopt English as the language for institutional repository documentation and code because we are a global community.  We are Brazillian owners, but as a borderless network of engineers, maintainers, and open-source contributors, using a single universal language ensures that our software is accessible, maintainable, and open to everyone, everywhere.
+
+### Key Reasons
+
+* **Inclusive Global Collaboration:** Using English removes regional barriers, enabling developers worldwide to inspect code, report issues, submit pull requests, and contribute to our ecosystem.
+* **Unified Technical Standard:** Modern programming languages, APIs, linters, and cloud tools operate natively in English. Writing code, commits, and comments in English prevents mixed-language codebases and maintains high readability.
+* **Seamless Project Growth:** Open-source projects thrive when maintainership can scale globally. Standardized documentation ensures our repositories remain active, healthy, and easy to fork or integrate.
+* **Career Readiness for All Members:** Working in an English-first technical environment gives every community member hands-on experience with the global software industry standard.
+
+---
+
+### Language Scope
+
+* **English Required:** Codebases, commit messages, inline documentation, pull request reviews, issue trackers, READMEs, and technical specifications.
+* 
+* **Multilingual Welcomed:** Issues, Discussions, Informal community chat, local event channels, general networking, and beginner onboarding— where members are free to connect in Portuguese or their native languages.

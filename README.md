@@ -6,7 +6,7 @@ Nós somos a HarpyBR, a comunidade brasileira de Código Aberto (Open-Source). A
 
 ## ➕ Como participar
 
-Entre para a comunidade lendo todo este documento e, em seguida, abrindo uma *issue* nesse repo informando que deseja participar. Você receberá um convite. Se algo ficar confuso, sinta-se à vontade para deixar um comentário na *issue*.
+Entre para a comunidade lendo todo este documento e, em seguida, clicando em "seguir" aqui, ou engajando com projetos, enviando issues, PRs, sugerindo novos projetos... Se algo ficar confuso, sinta-se à vontade para deixar um comentário via *issue* em nosso [repositório de discussões públicas](https://github.com/HarpyBR/discuss).
 
 ## 🤝 Valores que Compartilhamos
 

@@ -1,6 +1,6 @@
 # Harpy BR | Iniciativa de Software
 
-[Clique aqui para ler em Português / Click here to read in PT-BR](https://github.com/HarpyBR/.github/blob/main/README.md)
+[Clique aqui para ler em Inglês / Click here to read in EN](https://github.com/HarpyBR/.github/blob/main/README.md)
 
 Nós somos a HarpyBR, a comunidade brasileira de Código Aberto (Open-Source). Acreditamos na força da união, no respeito e na criatividade. Juntos, escrevemos e mantemos código-fonte de software de classe mundial com um propósito econômico e social, e o publicamos em formato Livre e de Código Aberto. Junte-se a nós.
 

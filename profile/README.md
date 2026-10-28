@@ -22,7 +22,7 @@ We believe that the right to look for, get, and spread verified facts is a non-n
 
 ### 3. Solidarity over Individualism
 
-We believe that solidarity is our ultimate defense, and we protect our own. In a world of digital surveillance and foreign overreach, nobody is safe until we are all safe! We refuse to leave anyone behind to face the algorithmic dragnets, corporate trackers, or digital threats alone. True digital sovereignty means watching each other’s backs—shielding our whistleblowers, safeguarding our creators, and protect our community so the vulnerable can speak without fear. By standing together as a digital community, we turn individual vulnerability into collective power, ensuring that an attack on one of us is met by the unbreakable shield of all of us.
+We believe that solidarity is our ultimate defense, and we protect our own. In a world of digital surveillance and foreign overreach, nobody is safe until we are ALL safe! We refuse to leave anyone of us to face the algorithmic dragnets, corporate trackers, stalkers, digital harassment or digital threats alone. True digital sovereignty means watching each other’s backs—shielding our members, safeguarding our creators, and protecting our community so even the vulnerable can speak without fear. By standing together as a digital community, we turn individual vulnerability into collective power, ensuring that an attack on one of us is met by the unbreakable shield of all of us.
 
 ## ⚖️ Code of Conduct
 

@@ -1,4 +1,4 @@
-# Harpy BR | Software Initiative
+# Harpy BR | Software Initiative ([Read in PT-BR](https://github.com/HarpyBR/.github/blob/main/README.md))
 
 We are the HarpyBR, the brazillian Open-Source Community. We believe in the strength of union, respect and creativity. Together, we write and maintain world-class software source code with an economic and social purpose, and publish it in a Free & Open Source format. Join us.
 
